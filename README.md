@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=alsrud)
 
+<div align="center">
   ![Alsrudursla's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrudursla&show_icons=true&theme=radical)
 </div>
