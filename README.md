@@ -25,8 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <br/>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style-flat-
-    square&logo=PostgreSQL&logoColor=white"/></a>
+
 
 </p>
 
