@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📱 Application
+## 📱 Application Launched
 <a href="https://play.google.com/store/apps/details?id=com.umcproject.eyerecipe">
   <img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/e76fa008-ec1f-4faa-b5ae-adbe4bf02ea4" width="150" height="150" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.ExpStudio.defensefire">                 
