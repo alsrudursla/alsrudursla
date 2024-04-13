@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 
 <br>
 
+## ✨ Experience
+- Hongik Univ. Computer Engineering (2020.03 ~ Now)
+- Multi-Cloud Architect Training Course - Application SW Engineering (2023.01 ~ 2023.07)
+- UMC 5th Server (2023.09 ~ 2024.02)
+
+<br>
+
 ## 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> 
