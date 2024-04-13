@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <br>
 
 ## 🛠️ Tech Stack 
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>  
@@ -42,3 +41,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
+<br>
+
+## 📱 Application
+<a href="https://play.google.com/store/apps/details?id=com.umcproject.eyerecipe">
+  <img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/e76fa008-ec1f-4faa-b5ae-adbe4bf02ea4" width="150" height="150" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.ExpStudio.defensefire">                 
+  <img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/ad208d81-a06e-43d1-ace2-7a77864ca8b6" width="125" height="125" /></a>
