@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <br>
 
 ## ✨ Experience
-- Hongik Univ. Computer Engineering (2020.03 ~ Now)
-- Hongik Univ. Algorithm Research Club : HI-ARC (2020.03 ~ 2021.11)
-- Hongik Univ. Game-Making Club : ExP Make (2022.03 ~ 2022.11)
 - Multi-Cloud Architect Training Course - Application SW Engineering (2023.01 ~ 2023.07)
 - GDSC Hongik Backend (2023.09 ~ 2024.02)
 - University Student Union Development Club : UMC 5th Server (2023.09 ~ 2024.02)
