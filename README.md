@@ -91,6 +91,14 @@ Here are some ideas to get you started:
       </td>
       <td>2023/05/29 → 2023/07/19</td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/alsrudursla/Instagram"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/824a8a5b-d99d-4cac-b97b-3e0750f115ca" width="30" height="30" /></a></td>
+      <td>Instagram</a></td>
+      <td>
+        인스타그램 클론 코딩 - 웹소켓을 이용한 실시간 채팅 프로그램을 중심으로
+      </td>
+      <td>2023/03/06 → 2023/03/10</td>
+    </tr>
 
   </table>
 </div>
