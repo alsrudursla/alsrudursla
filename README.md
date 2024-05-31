@@ -85,9 +85,9 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/tteog-ip"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/d0c7a894-cbe9-4857-8a9e-b64b952a9ad6" width="35" height="35" /></a></td>
-      <td>엔터프라이즈 기업의 MIS 지원 시스템 인프라 구축</a></td>
+      <td>TTEOG-IP</a></td>
       <td>
-        자동화와 모니터링을 통한 비즈니스 효율화
+        엔터프라이즈 기업의 MIS 지원 시스템 인프라 구축 - 자동화와 모니터링을 통한 비즈니스 효율화
       </td>
       <td>2023/05/29 → 2023/07/19</td>
     </tr>
