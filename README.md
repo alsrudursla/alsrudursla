@@ -50,8 +50,53 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📱 Application Launched
-<a href="https://play.google.com/store/apps/details?id=com.umcproject.eyerecipe">
-  <img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/e76fa008-ec1f-4faa-b5ae-adbe4bf02ea4" width="150" height="150" /></a>
+## 🚀 Projects
+<div align="center">
+  <table>
+    <tr>
+      <th>GitHub</th>
+      <th>Project</th>
+      <th>About</th>
+      <th>Year</th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/IRECIPE/IRecipe-Server"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/e76fa008-ec1f-4faa-b5ae-adbe4bf02ea4" width="50" height="50" /></a></td>
+      <td>IRECIPE</a></td>
+      <td>
+        AI Chatbot 기반 맞춤형 레시피 추천 서비스
+      </td>
+      <td>2023/12/27 → 2024/02/21</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GSC-2024-Hongik-Team-6"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/42b2a9bd-2fb7-4a4c-994b-e52043fe0a1f" width="30" height="30" /></a></td>
+      <td>SAFEY</a></td>
+      <td>
+        재난, 응급 상황 대처 교육용 어플리케이션
+      </td>
+      <td>2024/01/01 → 2024/02/26</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GDSC-snowflowerthon/Snowcare-team06-server"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/d54733ad-a970-4125-a10d-1363d9a7596c" width="35" height="30" /></a></td>
+      <td>SnowCare</a></td>
+      <td>
+        눈치우기 봉사활동 매칭 플랫폼
+      </td>
+      <td>2023/12/28 → 2024/01/13</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/tteog-ip"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/d0c7a894-cbe9-4857-8a9e-b64b952a9ad6" width="35" height="35" /></a></td>
+      <td>엔터프라이즈 기업의 MIS 지원 시스템 인프라 구축</a></td>
+      <td>
+        자동화와 모니터링을 통한 비즈니스 효율화
+      </td>
+      <td>2023/05/29 → 2023/07/19</td>
+    </tr>
+
+  </table>
+</div>
+
+<br>
+
+## 🤭 ETC
 <a href="https://play.google.com/store/apps/details?id=com.ExpStudio.defensefire">                 
   <img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/ad208d81-a06e-43d1-ace2-7a77864ca8b6" width="125" height="125" /></a>
