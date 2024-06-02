@@ -60,6 +60,14 @@ Here are some ideas to get you started:
       <th>Year</th>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/Bab-Al"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/d89cb0f0-7edb-4d06-81e0-1592c44b98d3" width="35" height="35" /></a></td>
+      <td>BABAL</a></td>
+      <td>
+        AI Nutritrack: Harnessing Vision for Personalized Nutrition
+      </td>
+      <td>2024/03 → Now</td>
+    </tr>
+    <tr>
       <td align="center"><a href="https://github.com/IRECIPE/IRecipe-Server"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/e76fa008-ec1f-4faa-b5ae-adbe4bf02ea4" width="50" height="50" /></a></td>
       <td>IRECIPE</a></td>
       <td>
