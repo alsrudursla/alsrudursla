@@ -13,21 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 # Lee Min Kyung 🎨
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falsrudursla&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)  
-![Alsrudursla's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrudursla&show_icons=true&theme=radical)-->
+![Alsrudursla's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrudursla&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nuy0307)](https://solved.ac/nuy0307/)
 
-<!-- <br>
+<br>
 
 ## ✨ Experience
 - Multi-Cloud Architect Training Course - Application SW Engineering (2023.01 ~ 2023.07)
 - GDSC Hongik Backend (2023.09 ~ 2024.02)
 - University MakeUs Challenge : UMC 5th Server (2023.09 ~ 2024.02)
- -->
+
 <br>
 
 ## 🛠️ Tech Stack 
