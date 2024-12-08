@@ -65,7 +65,7 @@ Here are some ideas to get you started:
       <td>
         AI Nutritrack: Harnessing Vision for Personalized Nutrition
       </td>
-      <td>2024/03 → 2024/11</td>
+      <td>2024/03/06 → 2024/11/29</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/IRECIPE/IRecipe-Server"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/e76fa008-ec1f-4faa-b5ae-adbe4bf02ea4" width="50" height="50" /></a></td>
