@@ -61,7 +61,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Bab-Al"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/d89cb0f0-7edb-4d06-81e0-1592c44b98d3" width="35" height="35" /></a></td>
-      <td>BABAL</a></td>
+      <td><a href="https://github.com/Bab-Al">BABAL</a></td>
       <td>
         AI Nutritrack: Harnessing Vision for Personalized Nutrition
       </td>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/IRECIPE/IRecipe-Server"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/e76fa008-ec1f-4faa-b5ae-adbe4bf02ea4" width="50" height="50" /></a></td>
-      <td>IRECIPE</a></td>
+      <td><a href="https://github.com/IRECIPE/IRecipe-Server">IRECIPE</a></td>
       <td>
         AI Chatbot 기반 맞춤형 레시피 추천 서비스
       </td>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/GSC-2024-Hongik-Team-6"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/42b2a9bd-2fb7-4a4c-994b-e52043fe0a1f" width="30" height="30" /></a></td>
-      <td>SAFEY</a></td>
+      <td><a href="https://github.com/GSC-2024-Hongik-Team-6">SAFEY</a></td>
       <td>
         재난, 응급 상황 대처 교육용 어플리케이션
       </td>
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/GDSC-snowflowerthon/Snowcare-team06-server"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/d54733ad-a970-4125-a10d-1363d9a7596c" width="35" height="30" /></a></td>
-      <td>SnowCare</a></td>
+      <td><a href="https://github.com/GDSC-snowflowerthon/Snowcare-team06-server">SnowCare</a></td>
       <td>
         눈치우기 봉사활동 매칭 플랫폼
       </td>
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/tteog-ip"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/1635a0c2-3502-4475-a4c7-a98e0bcd0929" width="40" height="40" /></a></td>
-      <td>TTEOG-IP</a></td>
+      <td><a href="https://github.com/tteog-ip">TTEOG-IP</a></td>
       <td>
         엔터프라이즈 기업의 MIS 지원 시스템 인프라 구축 - 자동화와 모니터링을 통한 비즈니스 효율화
       </td>
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/alsrudursla/Instagram"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/824a8a5b-d99d-4cac-b97b-3e0750f115ca" width="30" height="30" /></a></td>
-      <td>Instagram</a></td>
+      <td><a href="https://github.com/alsrudursla/Instagram">Instagram</a></td>
       <td>
         인스타그램 클론 코딩 - 웹소켓을 이용한 실시간 채팅 프로그램을 중심으로
       </td>
