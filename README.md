@@ -112,7 +112,3 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-## 🤭 ETC
-<a href="https://play.google.com/store/apps/details?id=com.ExpStudio.defensefire">                 
-  <img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/ad208d81-a06e-43d1-ace2-7a77864ca8b6" width="125" height="125" /></a>
