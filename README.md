@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 # Lee Min Kyung 🎨
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falsrudursla&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)  
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Multi-Cloud Architect Training Course - Application SW Engineering (2023.01 ~ 2023.07)
 - GDSC Hongik Backend (2023.09 ~ 2024.02)
 - University MakeUs Challenge : UMC 5th Server (2023.09 ~ 2024.02)
-
+-->
 <br>
 <!--
 ## 🛠️ Tech Stack 
