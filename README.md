@@ -61,6 +61,14 @@ Here are some ideas to get you started:
       <th>Year</th>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/alsrudursla/Mooney"><img src="https://em-content.zobj.net/source/microsoft-teams/337/bar-chart_1f4ca.png" width="35" height="35" /></a></td>
+      <td><a href="https://github.com/alsrudursla/Mooney">Mooney</a></td>
+      <td>
+        주식 매매 시뮬레이션
+      </td>
+      <td>2025.09.17 → 2025.09.23</td>
+    </tr>
+    <tr>
       <td align="center"><a href="https://github.com/Bab-Al"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/d89cb0f0-7edb-4d06-81e0-1592c44b98d3" width="35" height="35" /></a></td>
       <td><a href="https://github.com/Bab-Al">BABAL</a></td>
       <td>
@@ -68,14 +76,14 @@ Here are some ideas to get you started:
       </td>
       <td>2024/03/06 → 2024/11/29</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td align="center"><a href="https://github.com/C01104685139"><img src="https://github.com/user-attachments/assets/8679ef51-4146-4993-9a13-786b85cff8ff" width="50" height="50" /></a></td>
       <td><a href="https://github.com/C01104685139">Rally Racers</a></td>
       <td>
         타임어택 레이싱 게임
       </td>
       <td>2024/05/01 → 2024/05/28</td>
-    </tr>
+    </tr> -->
     <tr>
       <td align="center"><a href="https://github.com/IRECIPE/IRecipe-Server"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/e76fa008-ec1f-4faa-b5ae-adbe4bf02ea4" width="50" height="50" /></a></td>
       <td><a href="https://github.com/IRECIPE/IRecipe-Server">IRECIPE</a></td>
