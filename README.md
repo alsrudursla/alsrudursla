@@ -64,9 +64,9 @@ Here are some ideas to get you started:
       <td align="center"><a href="https://github.com/alsrudursla/Mooney"><img src="https://em-content.zobj.net/source/microsoft-teams/337/bar-chart_1f4ca.png" width="35" height="35" /></a></td>
       <td><a href="https://github.com/alsrudursla/Mooney">Mooney</a></td>
       <td>
-        주식 매매 시뮬레이션
+        실시간 주문 체결 시뮬레이션 시스템 개발 및 성능 개선
       </td>
-      <td>2025.09.17 → 2025.09.23</td>
+      <td>2025.09.17 → <i>ing</i></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Bab-Al"><img src="https://github.com/alsrudursla/alsrudursla/assets/90559205/d89cb0f0-7edb-4d06-81e0-1592c44b98d3" width="35" height="35" /></a></td>
